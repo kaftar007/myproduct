@@ -1,0 +1,7 @@
+venv/
+.idea/
+manage.py
+myproduct/
+products/
+requirements.txt
+
