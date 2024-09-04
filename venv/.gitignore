@@ -4,4 +4,8 @@ manage.py
 myproduct/
 products/
 requirements.txt
-
+media/
+myproduct/__pycache__/urls.cpython-312.pyc
+products/__pycache__/
+venv/Lib/site-packages/PIL/
+venv/Lib/site-packages/pillow-10.4.0.dist-info/
